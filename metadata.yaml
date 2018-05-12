@@ -1,10 +1,16 @@
 _repo: An-Historical-Review-of-the-Royal-Marine-Corps-from-its-Original-Institution-down-to-the-Pres__49490
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49490-h/images/cover.jpg
 creator:
   author:
     agent_name: Gillespie, Alexander
     gutenberg_agent_id: '45364'
     url: http://www.gutenberg.org/2009/agents/45364
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49490#An-Historical-Review-of-the-Royal-Marine-Corps-from-its-Original-Institution-down-to-the-Pres_
 gutenberg_issued: '2015-07-19'
 gutenberg_type: Text
 identifiers:
