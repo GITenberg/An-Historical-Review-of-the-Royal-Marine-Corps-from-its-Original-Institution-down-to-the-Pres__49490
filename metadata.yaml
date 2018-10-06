@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: An Historical Review of the Royal Marine Corps, from its Original Institution
   down to the Present Era, 1803
 url: http://www.gutenberg.org/ebooks/49490
